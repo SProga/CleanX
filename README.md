@@ -1,4 +1,4 @@
 # CleanX
 
 
-<img src="./desktop--Preview.png"/>
+<img src="./Preview.png"/>
