@@ -13,7 +13,7 @@ const GlobalStyles = createGlobalStyle`
     --max-width:140rem;
     --display-font:'Righteous';
     //font-sizes 
-    --mobile-heading:2rem;
+    --mobile-heading:2.4rem;
 
 }
 *,

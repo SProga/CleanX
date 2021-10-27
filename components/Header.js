@@ -13,11 +13,11 @@ const HeaderStyle = styled.header`
 		position: absolute;
 		bottom: -30px;
 		right: 0;
-		width: 25rem;
+		width: 23rem;
 	}
 	.tag-line {
 		color: var(--ctaColor);
-		font-size: 0.8rem;
+		font-size: 1.2rem;
 		letter-spacing: 0.5px;
 		font-style: normal;
 		font-weight: normal;
@@ -39,7 +39,7 @@ const HeaderStyle = styled.header`
 	.paragraph {
 		width: 100%;
 		margin-top: 1rem;
-		font-size: 0.8rem;
+		font-size: 1.2rem;
 		color: var(--text-color-bright);
 		line-height: 1.8;
 		white-space: pre-line;
@@ -62,7 +62,7 @@ const Header = () => {
 					<p className="paragraph">
 						<span>Lorem ipsum dolor sit amet</span>
 						<span>consectetur adipiscing elit.</span>
-						<span>Quis eget neque malesuada integer vitae..</span>
+						<span>Quis eget neque malesuada.</span>
 					</p>
 				</div>
 				<Button margin="2rem 0 0 0">Book Now</Button>
