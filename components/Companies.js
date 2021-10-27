@@ -33,10 +33,16 @@ const Companies = () => {
 					<use xlinkHref="/images/numberCompanies.svg#numberCompanies"></use>
 				</svg>
 				<CompanyListStyles>
-					<img src="/images/mobile/bitt--mobile.png" alt="" />
-					<img src="/images/mobile/flow--mobile.png" alt="" />
-					<img src="/images/mobile/scotiabank--mobile.png" alt="" />
-					<img src="/images/mobile/chefette--mobile.png" alt="" />
+					<svg>
+						<use xlinkHref="/images/companyIcons.svg#flow--mobile"></use>
+					</svg>
+					<svg>
+						<use xlinkHref="/images/companyIcons.svg#scotiabank--mobile"></use>
+					</svg>
+					<svg>
+						<use xlinkHref="/images/companyIcons.svg#bitt--mobile"></use>
+					</svg>
+					<img src="/images/chefette--mobile.svg" alt="" />
 				</CompanyListStyles>
 			</Container>
 		</CompaniesStyled>

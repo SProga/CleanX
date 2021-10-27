@@ -7,7 +7,7 @@ const ButtonStyled = styled.button`
 	background-color: var(--ctaColor);
 	border-radius: 10px 30px;
 	color: var(--primaryText);
-	font-size: 1rem;
+	font-size: 1.2rem;
 	font-weight: 600;
 	margin: ${(props) => props.margin || "initial"};
 `;
