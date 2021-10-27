@@ -43,12 +43,12 @@ const MenuButtonStyles = styled.button`
 		transition: all 0.15s linear;
 	}
 	.open::before {
-		transform: rotate(45deg) translate(11px, 11px);
+		transform: rotate(45deg) translate(16px, 11px);
 		transform-origin: top right;
 		width: 32px;
 	}
 	.open::after {
-		transform: rotate(-45deg) translate(7px, 6px);
+		transform: rotate(-45deg) translate(7px, 10px);
 		transform-origin: bottom left;
 		width: 32px;
 	}
