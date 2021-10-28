@@ -1,0 +1,20 @@
+<svg width="49" height="49" viewBox="0 0 49 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="serviceComponent">
+<path id="Rectangle 14" d="M0 10C0 4.47715 4.47715 0 10 0H29C40.0457 0 49 8.95431 49 20V39C49 44.5228 44.5228 49 39 49H20C8.9543 49 0 40.0457 0 29V10Z" fill="url(#paint0_linear_38:68)"/>
+<g id="residential 1" clip-path="url(#clip0_38:68)">
+<g id="Group">
+<path id="Vector" d="M25.6566 14.8671V38.6841H31.1717V34.3721H32.9849V38.6841H38.5V14.8671H25.6566ZM35.5788 29.4566H28.5778V27.5862H35.5788V29.4566V29.4566ZM35.5788 24.9052H28.5778V23.0347H35.5788V24.9052V24.9052ZM35.5788 20.3538H28.5778V18.4833H35.5788V20.3538V20.3538Z" fill="white"/>
+<path id="Vector_2" d="M11 38.6842H16.5151V34.3722H18.3283V38.6842H23.8434V10.3158H11V38.6842ZM13.9212 13.932H20.9222V15.8024H13.9212V13.932ZM13.9212 18.4834H20.9222V20.3539H13.9212V18.4834ZM13.9212 23.0348H20.9222V24.9053H13.9212V23.0348ZM13.9212 27.5862H20.9222V29.4567H13.9212V27.5862Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_38:68" x1="1.25" y1="3.09474" x2="45.4872" y2="42.9859" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B0FAFF"/>
+<stop offset="1" stop-color="#006B6B"/>
+</linearGradient>
+<clipPath id="clip0_38:68">
+<rect width="27.5" height="28.3684" fill="white" transform="translate(11 10.3158)"/>
+</clipPath>
+</defs>
+</svg>

@@ -14,6 +14,7 @@ const GlobalStyles = createGlobalStyle`
     --display-font:'Righteous';
     //font-sizes 
     --mobile-heading:2.4rem;
+    --paragraph-text:1.8;
 
 }
 *,
